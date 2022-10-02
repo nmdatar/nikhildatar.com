@@ -1,0 +1,25 @@
+
+
+p {
+    color: white;
+    font-size: small;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .2em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.portfolio {
+    color: white;
+    padding-top: 1em;
+    padding-right: .5em;
+}
+
+.portfolio:hover {
+    color: #1E90FF;
+    transform: scale(1.1);
+    transition: all .2s ease-out;
+}
+
