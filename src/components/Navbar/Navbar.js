@@ -8,20 +8,6 @@ function Navbar() {
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
 
-  // const showButton = () => {
-  //   if (window.innerWidth <= 960) {
-  //     setButton(false);
-  //   } else {
-  //     setButton(true);
-  //   }
-  // };
-
-  // useEffect(() => {
-  //   showButton();
-  // }, []);
-
-  // window.addEventListener('resize', showButton);
-
   return (
     <>
       <nav className='navbar'>
@@ -42,7 +28,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <a
-                href = 'https://github.com/nmdatar/website/blob/main/src/Nikhil_Datar_Resume.pdf'
+                href = 'https://github.com/nmdatar/nikhildatar.com/blob/main/src/Nikhil_Datar_Resume.pdf'
                 target = '_blank'
                 rel='noopener noreferrer'
                 className='nav-links'
