@@ -12,7 +12,7 @@ function Home() {
       <div style={{textAlign: 'center', height: '95vh', display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection:'column'}}>
         <p>hey there, i'm Nikhil Datar!</p>
 
-        <p>i'm a junior at Harvard studying computer science</p>
+        <p>i'm an undergraduate at Harvard studying computer science</p>
 
         <p>currently, i'm working on chest x-ray interpretation research using deep learning @ HMS</p>
 
