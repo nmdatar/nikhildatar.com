@@ -14,9 +14,9 @@ function Home() {
 
         <p>i'm an undergraduate at Harvard studying computer science</p>
 
-        <p>currently, i'm working on chest x-ray interpretation research using deep learning @ HMS</p>
+        <p>currently, i'm developing machine learning algorithms for ozone concentration prediction @ Harvard</p>
 
-        <p>i'm also an analyst @ Harvard Consulting and US-China AI associate @ Harvard Foreign Policy</p>
+        <p>i'm also an associate @ Harvard Consulting and member of Harvard Blockchain and Innovation Labs</p>
 
         <p> in my free time, you can find me playing chess, making Spotify playlists, and taking late-night walks</p>
 
